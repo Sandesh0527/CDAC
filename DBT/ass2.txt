@@ -1,0 +1,14 @@
+Assignment 2
+
+Question 1
+
+sol:- Cnum column will be primary key because in customer table because all rows in  Cnum column are unique.
+
+Question 2 
+Sol:-  Rating is the 4th column of customer table.
+
+Question 3
+Sol:-  rows called as record and columns called as fileds.
+
+Question 4
+sol :-
