@@ -1,0 +1,73 @@
+Web Applications:
+
+1.Desktop Apps: The apps which are running directly on OS, First We need to install them.
+2.Web Apps:- Doesn't need to be installed
+
+Client-> Device/ Browser
+Server-> Machine Similar to PC/Laptop
+         Server has RAM, CPU, Storage Units
+
+Frontend: UI => HTML, CSS, JS, Bootstrap, Jquery, React vs Angular, vue js, next js
+
+HTML: Hyper Text Markup Language
+      HTML is used to create layout of web app, used to display content on the web page
+
+CSS: Cascading Style Sheet=>styling of web page, beautification
+
+JS: It is for client side scripting
+    Form VALIDATION, ANIMATIONS, Arithmetic operations
+    *Old Name:- Livescript
+    -Every browser has a JS Engine(interpreter)
+    -v8 engine
+     
+
+Bootstrap: Make page responsive
+
+React: Is a library to develop frontend of web apps
+
+
+Backend: Operations + Database
+
+Operations: C, C++, Java, PHP, .net, JS
+Database: MySQL, MongoDB, SQLServer, SQLite, PostgreSQL, Cassandra
+
+Node JS: It is neither language nor a library.
+         -It is a runtime environment for JS
+
+MERN Stack
+MEAN Stack
+
+
+*Client & Server technical aspects:
+**Note:- These technical aspects are same for all the clients and server regardless of the tech used
+#Analogy for request:
+1.Client Sends request to server:
+  -To send request we need url(end-point) of the server
+
+2.Method of the request: (Purpose of the request)
+    -is it for getting the data from the server, saving data on the server, deleting data, updating data
+
+GET, POST, PUT, DELETE, PATCH
+
+#Analogy for the response/Server:
+1. Server will accept the request
+2. It will start processing
+3. Server will generate the response
+  -We have certain properties associated with the response:
+   1. Response Data -> Array, String, Page
+   2. Response Status -> Status code is always a numeric value and        	will have a message associated with it.
+       e.g.- 200 201 202 203..299 -> Success event from server
+	     300 301 301 .....399 -> Redirection Message
+	     400 401 402......499 -> Error due to client mistake
+             500 501 502......599 -> Error due to server mistake
+
+************Reading***********
+W3Schools ==> HTML Home-> List
+Client-Server Architecture
+w3school
+medium.com
+https://www.baeldung.com/
+https://developer.mozilla.org/en-US/
+
+
+    
